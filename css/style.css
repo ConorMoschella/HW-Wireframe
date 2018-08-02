@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  body {
+      font-size: 16px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  header {
+      font-size: 36px;
+      line-height: 2;
+      color: black;
+      background: wheat;
+      margin-bottom: 20px;
+    }
+
+    #nav {
+      font-size: 24px;
+      line-height: 1.5;
+      color: black;
+      background: wheat;
+      margin-bottom: 10px;
+    }
+
+    #section {
+        overflow: auto;
+        color: black;
+        background: wheat;
+        margin-bottom: 10px;
+        width: 59%;
+        float: left;
+        height: 500px;
+        padding-top: 2%;
+    }
+
+    #article {
+        width: 75%;
+        box-align: center;
+        background-color: burlywood;
+        text-align: center;
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        margin-bottom: 10px;
+        height: 75%;
+        margin-top: 4%;
+    }
+
+    #header-1 {
+        color: black;
+        background: wheat;
+        margin-bottom: 10px;
+        width: 30%;
+        float: left;
+        margin-left: 5%;
+    }
+
+    #header-2 {
+        color: black;
+        background: wheat;
+        margin-bottom: 10px;
+        width: 30%;
+        float: left;
+    }
+
+    #header-3 {
+        color: black;
+        background: wheat;
+        margin-bottom: 10px;
+        width: 30%;
+        float: left;
+        margin-right: 5%;
+    }
+
+    .article-paragraph {
+        clear: both;
+        margin-top: 5px;
+        background: wheat;
+        color: black;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    #aside {
+        float: right;
+        height: 500px;
+        width: 39%;
+        background: wheat;
+        color: black;
+    }
+
+    #footer {
+        clear: both;
+        margin-top: 20px;
+        background: wheat;
+        color: black;
+        height: 80px;
+        line-height: 1.5;
+        padding-top: 5px
+    }
+
+   
